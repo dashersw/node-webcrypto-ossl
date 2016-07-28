@@ -1,5 +1,5 @@
 {
-  "name": "node-webcrypto-ossl",
+  "name": "@dashersw/node-webcrypto-ossl",
   "version": "1.0.3",
   "repository": {
     "type": "git",
